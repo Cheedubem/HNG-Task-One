@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(232, 232, 232);
+  padding: 2rem 1rem;
+  display: flex;
+  justify-content: center;
+}
+
+div {
+  text-align: center;
+  /* margin: 1rem; */
+  width: 20rem;
+  padding: 2rem 1rem;
+  background-color: white;
+  box-shadow: inset;
+  border-radius: 1rem;
+}
+a {
+  display: inline-block;
+  padding: 1rem 2rem;
+  color: white;
+  background-color: orange;
+  text-decoration: none;
+  margin-top: 1rem;
+  border-radius: 5px;
+}
+a:hover {
+  background-color: rgb(219, 142, 0);
+}
+img {
+  width: 15rem;
+  height: auto;
+  border-radius: 1rem;
+}
+p {
+  /* font-size: 2rem; */
+}
